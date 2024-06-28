@@ -60,7 +60,7 @@
   width: 100%;
   left: 0;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 4;
+  z-index: 20;
 }
 
 /* Show the dropdown menu on hover */
